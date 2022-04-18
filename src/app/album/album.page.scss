@@ -1,0 +1,41 @@
+* {
+    font-family: poppins, sans-serif;
+    color: rgb(46, 46, 46);
+  }
+
+  .content {
+    --ion-background-color:#45dd5f;
+  }
+
+  .album {
+      padding-left: 15px;
+      color: white;
+  }
+
+  p {
+    color: white;
+  }
+
+  .container-text {
+      width: 90%;
+      margin-left: 15px;
+  }
+
+  .traco {
+    width: 90%;
+    height: 5px;
+    margin-left: 15px;
+    border-radius: 20px;
+    background-color: rgb(16, 95, 0);
+  }
+
+  .ver-btn {
+      width: 90%;
+      align-items: center;
+      padding-left: 15px;
+  }
+
+  #titulo {
+    text-align: center;
+    padding-right: 40px;
+}

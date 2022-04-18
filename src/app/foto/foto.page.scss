@@ -1,0 +1,21 @@
+.image-container {
+    min-height: 200px;
+}
+
+
+
+@media( min-width: 0px){
+    .images {
+        column-count: 3; 
+    }
+}
+
+.one-image {
+    margin: 2px;
+}
+
+#titulo {
+    text-align: center;
+    padding-right: 40px;
+}
+
